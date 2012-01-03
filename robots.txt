@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /symphony/
+Allow: /
+
+# Sitemap: http://yourproject.url/sitemap.xml

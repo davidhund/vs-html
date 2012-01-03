@@ -1,0 +1,15 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   O HAI!
+
+   This website is build by David Hund - Valued Standards.
+
+   I assume you're a Geek. No, thank *you*! ☺
+   You have taken the time to look 'under the hood'. I hope you've
+   found things to your liking. Feel free to borrow/use most of what
+   you find. It would be appreciated, though, that (if you like it)
+   you'd tell me. I'd  ❤ to hear.
+
+   ✌ David Hund
+   http://valuedstandards.com
+   @valuedstandards
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
